@@ -1,2 +1,3 @@
-# predict_fakenews
-Predict fake news using logistic regression
+This project predicts if the news is fake or not analyzing the text.
+
+Model used - logistic regression
